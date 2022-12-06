@@ -1,4 +1,4 @@
-# DIO-Desafio-GITHUB-2
+# SegundoDesafio
 Desafio de Projeto GIT-GITHUB 
 BOOTCAMP: GFT Quality Assurance para Mulheres
 
